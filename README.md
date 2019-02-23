@@ -50,7 +50,7 @@
   
 **Bounty**
   
-  Capture any of the above on the Ethereum Blockchain and we will award the prize to whoever incorporates the most of the above funcionality.
+ The goal is to capture as much of the above functionality on the Ethereum blockchain within a reasonable scope. 
   
 **Prize**
   
