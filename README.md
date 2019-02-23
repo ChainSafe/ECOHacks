@@ -11,7 +11,7 @@
 
 **Tokens = Internationally transferred mitigation outcomes (ITMOs)**
 
-- Data to be stored in a non-fungible token [NFT](https://erc721.org)
+- Data to be stored in a non-fungible token [NFT](http://erc721.org)
   - Country of origin
   - Project details (description)
   - Measurement in metric tonnes of CO2 mitigated
