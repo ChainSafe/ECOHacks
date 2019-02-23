@@ -50,7 +50,7 @@
   
 **Bounty**
   
-  Capture any of the above on the Ethereum Blockchain.
+  Capture any of the above on the Ethereum Blockchain and we will award the prize to whoever incorporates the most of the above funcionality.
   
 **Prize**
   
