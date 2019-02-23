@@ -1,4 +1,4 @@
-# ECOHacks-2019
+# ECOHacks
 
 ## Getting Started with Ethereum
 - Hello World Smart Contract [Tutorial](https://www.ethereum.org/greeter)
