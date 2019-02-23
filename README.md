@@ -1,6 +1,6 @@
 # ECOHacks-2019
 
-**Getting Started with Ethereum**
+## Getting Started with Ethereum
 - Hello World Smart Contract [Tutorial](https://www.ethereum.org/greeter)
 - Background on [Ethereum](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/)
 - Ethereum [Stack Exchange](https://ethereum.stackexchange.com)
